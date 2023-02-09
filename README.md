@@ -1,4 +1,5 @@
 # prueba
 curso datapath
-Geferson Ibarra
-Adalberto García
+INTEGRANTES
+* Geferson Ibarra
+* Adalberto García
